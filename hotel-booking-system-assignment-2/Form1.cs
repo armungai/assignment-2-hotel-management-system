@@ -6,5 +6,10 @@ namespace hotel_booking_system_assignment_2
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
